@@ -1,5 +1,6 @@
 
 ## java script for web development level wise from scratch to advance.<br />
+# contain one Todo project included with css and html
 1.Basics of variables and constants in javascript<br />
 2.A talk about numbers in javascript<br />
 3.Undefined and Boolean Values in Javascript<br />
@@ -46,4 +47,4 @@
 44.Parsing JSON and stringify<br />
 45.Classes and objects in javascript<br />
 46.Inheritance and method overriding<br />
-   ##last contaon 1 project [Todo]
+   
